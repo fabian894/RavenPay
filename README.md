@@ -1,4 +1,4 @@
-Build a small money transfer app where users can do the following (Backend API Endpoints
+This is a small money transfer app where users can do the following (Backend API Endpoints
 only)
 1. Sign up and log in (authentication)
 2. Generate a unique bank account that can accept deposits via bank transfer
